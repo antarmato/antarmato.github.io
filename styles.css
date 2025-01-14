@@ -6,10 +6,6 @@ body{
     text-align: center;
 }
 
-h1{
-
-}
-
-p{
-
+header h2{
+    display:inline-block;
 }
