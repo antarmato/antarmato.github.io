@@ -1,12 +1,15 @@
 body{
-    color: black;
+    background-color: black;
+    width: 300px;
+    margin: 0 auto;
+    color: red;
+    text-align: center;
 }
 
 h1{
-    margin: 0 auto;
-    color: red;
+
 }
 
 p{
-    color: red;
+
 }
